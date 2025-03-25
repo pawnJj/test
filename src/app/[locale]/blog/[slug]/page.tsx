@@ -2,7 +2,7 @@
 // import { useEffect, useState } from 'react';
 import { Suspense } from "react";
 import type { Metadata } from 'next'
-const siteUrl = "https://next-gaur-git-master-nihao-com-bcfa318a.vercel.app";
+const siteUrl = "https://test-whale-sjy.vercel.app";
 const img = "https://newgame.mypinata.cloud/ipfs/QmYmEFzjXL8f4xEGkNNo4MuCz1LY2PotovK2i2MbQa31Bv"
 import TestTTT from "@/components/Test";
 import ServerComponentExample from '@/components/Og'
